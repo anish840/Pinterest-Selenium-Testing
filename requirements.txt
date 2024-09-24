@@ -1,0 +1,5 @@
+pytest==7.4.0
+selenium==4.11.2
+
+
+pip install -r requirements.txt
