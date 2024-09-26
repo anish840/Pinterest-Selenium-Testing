@@ -8,10 +8,10 @@ from selenium.webdriver.common.keys import Keys
 from selenium.common.exceptions import NoSuchElementException, TimeoutException
 
 # Test data and credentials
-username = 'ftwexorcist@gmail.com'  
-password = 'Amritanshu@123'        
-pid = 'ftwexorcist'                
-img_path = r"W:\picture\wall\977604.jpg" 
+username = 'yourusername'  
+password = 'yourpassword'        
+pid = 'yourpid'                
+img_path = r"image_path" 
 website = 'https://www.pinterest.com/login/'
 
 @pytest.fixture(scope="module")
